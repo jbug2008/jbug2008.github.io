@@ -1,0 +1,11 @@
+.navbar ul{
+    list-style: none;
+   text-align: center; 
+}
+.navbar li{
+    display: inline-block;
+    padding: 18px;
+    font-size: 100%;
+p{ font-family: 'Shadows Into Light Two', cursive;  
+}
+body{background:9202FF}
